@@ -144,5 +144,22 @@ hr{
     background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
     background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
  }
+
+@media only screen and (max-width: 576px) {
+  .mountain-image {
+    width: 100%;
+  }
+  .bottom-cloud{
+    left: 250px; 
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .bottom-cloud{
+    left: 210px; 
+  }
+}
+    
+    
  
  
