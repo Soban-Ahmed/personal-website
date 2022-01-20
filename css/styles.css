@@ -116,6 +116,10 @@ hr{
     margin: 40px auto 60px; 
 }
 
+.skill-row{
+    display: flow-root;
+}
+
 .copyright {
     color: #eaf6f6 !important;
     font-size: 0.75rem !important; 
